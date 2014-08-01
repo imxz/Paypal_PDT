@@ -1,5 +1,4 @@
-PHP TUTORIAL: PAYPAL PAYMENT DATA TRANSFER (PDT)
------------------
+###PHP TUTORIAL: PAYPAL PAYMENT DATA TRANSFER (PDT)
 
 ####描述
 Payment Data Transfer (PDT) is a secure method to retrieve the details about a PayPal transaction so that you can display them to your customer. It is used in combination with PayPal Payments Standard, so that after a customer returns to your website after paying on the PayPal site, they can instantly view a confirmation message with the details of the transaction.
