@@ -1,5 +1,6 @@
     /**
      * Get PayPal Payment Data
+     * Read more at http://ethanblog.com/tech/webdev/php-for-paypal-payment-data-transfer.html
      * @param   $tx Transaction ID
      * @return      PayPal Payment Data or FALSE
      */
